@@ -1,0 +1,23 @@
+{
+  "production": {
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "database": "DB_NAME",
+    "host": "IP_ADDRESS",
+    "dialect": "postgres"
+  },
+  "development": {
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "database": "DB_NAME",
+    "host": "IP_ADDRESS",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "database": "DB_NAME",
+    "host": "IP_ADDRESS",
+    "dialect": "postgres"
+  }
+}
