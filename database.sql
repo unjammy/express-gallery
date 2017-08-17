@@ -1,5 +1,0 @@
-DROP USER IF EXISTS galleria;
-DROP DATABASE IF EXISTS gallery;
-
-CREATE USER galleria;
-CREATE DATABASE gallery WITH OWNER 'galleria';
